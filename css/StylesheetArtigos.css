@@ -1,0 +1,44 @@
+.TituloArtigos
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.GradeArtigos
+{
+    text-align: center;
+}
+
+.GradeArtigos li
+{
+    display: inline-block;
+    width:400px;
+    border: 1px grey solid;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 1%;
+    font-family: "Julius Sans One", "arial", sans-serif;
+    margin-bottom: 20px;
+}
+
+.GradeArtigos a
+{
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 22px;
+}
+
+.GradeArtigos a:hover
+{
+    text-decoration: none;
+    color:red;
+    font-size: 22px;
+}
+
+.GradeArtigos img
+{
+    width: 80%;
+    padding: 10px;
+}
